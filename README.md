@@ -1,5 +1,3 @@
-Your name, 2) Why you want to join WhiteHats, 3) One cybersecurity news/incident you recently read about. Share the repository link here (make it public)
-
 Nithish Ramanathan
 
 I want to join WhiteHats to get hands on experience through the research opportunities you may offer.
